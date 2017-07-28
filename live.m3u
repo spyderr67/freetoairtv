@@ -7,6 +7,10 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1,AU: NITV - Perth
 http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:-1,AU: SBS One - National
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:-1,AU: SBS Viceland - National
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 #EXTINF:-1,AU: Ten play - National
 http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
 #EXTINF:-1,AU: ABC News - National
