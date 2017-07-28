@@ -1,5 +1,33 @@
 #EXTM3U
+#EXTINF:-1,AU: Fox Sports News - National
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+#EXTINF:-1,AU: Sky Racing - National
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+#EXTINF:-1,AU: Expo Shopping Channel - National
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1,AU: NITV - Perth
+http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:-1,AU: Ten play - National
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
+#EXTINF:-1,AU: ABC News - National
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1,AU: 7 HD - Perth
+https://perthseven-i.akamaihd.net/hls/live/263674/PER1/master_1500.m3u8
+#EXTINF:-1,AU: 7Two - Perth
+https://perthseven-i.akamaihd.net/hls/live/263675/PER2/master_1500.m3u8
+#EXTINF:-1,AU: 7 Mate - Perth
+https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master_1500.m3u8
+#EXTINF:-1,AU: 7 Flix - Perth
+https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master_1500.m3u8
+#EXTINF:-1,AU: 9 HD - Perth
+https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master1.m3u8
 #EXTINF:-1,AU: 9GEM - Perth
 https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master1.m3u8
-#EXTINF:-1,AU:  9Life - Perth
+#EXTINF:-1,AU: 9Life - Perth
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master1.m3u8
+#EXTINF:-1,AU: 9 Go - Perth
+https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master1.m3u8
+#EXTINF:-1,AU: 7HD - Sydney
+https://sydneyseven-i.akamaihd.net/hls/live/263630/SYD1/master_1500.m3u8
+#EXTINF:-1,AU: 9HD - Sydney
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
